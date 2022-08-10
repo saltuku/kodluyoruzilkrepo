@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [MIT](https://choosealicense.com/licenses/mit/)
 
-! [Proje Gorsel] (https://www.hizliresim.com/h16g03j)
+  <a href="https://ibb.co/CP9Xg3J"><img src="https://i.ibb.co/GHM1y4s/Screenshot-1.jpg" alt="Screenshot-1" border="0"></a>
